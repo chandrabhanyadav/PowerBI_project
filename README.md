@@ -16,7 +16,7 @@ Perform data analysis using Power BI to visualize trends, patterns, and outliers
 Utilize Power BI to create interactive dashboards and reports.
 Interpret results to provide actionable insights for decision-making.
 
-he dataset used for this project contains transactional data with fields such as:
+This dataset used for this project contains transactional data with fields such as:
 Order Date: Date when the transaction was made.
 Sales Amount: Total sales amount for each transaction.
 Currency: Currency used in the transaction (e.g., INR, USD).
